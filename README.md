@@ -36,3 +36,34 @@ Silver-J-IDE/
 │ └── ...
 ├── README.md
 └── .gitignore
+
+
+
+---
+
+## 📌 Purpose of the Project
+
+This project was developed to demonstrate:
+- Desktop application development using C#
+- Windows Forms UI design
+- File handling and project management logic
+- Basic IDE architecture implementation
+
+---
+
+## 📷 Screenshots
+
+*(You can add screenshots here later)*
+
+---
+
+## 👩‍💻 Author
+
+**K Chaitra Latha**  
+GitHub: https://github.com/kchaitralatha-bit  
+
+---
+
+## 📄 License
+
+This project is for academic and educational purposes.
